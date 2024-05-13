@@ -24,7 +24,17 @@
       "startDate": "2024-02",
       "endDate": "2024-05",
       "summary": "Internship as a system administrator in the IT department of my school. I am in charge of making for the school an identity provider, a service provider, and SAML authentication.",
-      "highlights": ["Identity provider", "Service provider", "SAML", "LDAP", "Shibboleth", "VMWare ESXi", "VMWare vCenter", "VMWare Workstation", "pfSense"]
+      "highlights": [
+        "Identity provider",
+        "Service provider",
+        "SAML",
+        "LDAP",
+        "Shibboleth",
+        "VMWare ESXi",
+        "VMWare vCenter",
+        "VMWare Workstation",
+        "pfSense"
+      ]
     }
   ],
   "volunteer": [
