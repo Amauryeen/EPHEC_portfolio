@@ -11,8 +11,8 @@ horizontal: true
 
 <table style="width:100%;">
 <tr><th>activity</th><th>theme</th><th>valued hours</th><th>real hours</th></tr>
-<tr><td><a href="/projects/activity_1">Cyber Security Challenge 2023</a></td><td>Cybersecurity</td><td>10</td><td>~30</td></tr>
-<tr><td><a href="/projects/activity_2">Cyber Security Challenge 2024</a></td><td>Cybersecurity</td><td>10</td><td>~30</td></tr>
+<tr><td><a href="/projects/activity_1">Cyber Security Challenge 2023</a></td><td>Security</td><td>10</td><td>~30</td></tr>
+<tr><td><a href="/projects/activity_2">Cyber Security Challenge 2024</a></td><td>Security</td><td>10</td><td>~30</td></tr>
 <tr><td><a href="/projects/activity_3">Getting started with React</a></td><td>Development</td><td>8</td><td>8</td></tr>
 <tr><td><a href="/projects/activity_4">Create your first website with Wordpress 6</a></td><td>Development</td><td>10</td><td>10</td></tr>
 <tr><td><a href="/projects/activity_5">CHE2</a></td><td>Social</td><td>10</td><td>~250</td></tr>
