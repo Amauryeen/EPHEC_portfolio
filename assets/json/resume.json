@@ -19,11 +19,12 @@
   "work": [
     {
       "name": "EPHEC",
+      "location": "Louvain-la-Neuve, BE",
       "position": "Sysadmin Intern",
       "url": "https://ephec.be/",
       "startDate": "2024-02",
       "endDate": "2024-05",
-      "summary": "Internship as a system administrator in the IT department of my school. I am in charge of making for the school an identity provider, a service provider, and SAML authentication.",
+      "summary": "Internship for my Bachelor's graduation as a system administrator in the IT department of my school. I am in charge of making for the school an identity provider, a service provider, and SAML authentication.",
       "highlights": [
         "Identity provider",
         "Service provider",
@@ -35,6 +36,16 @@
         "VMWare Workstation",
         "pfSense"
       ]
+    },
+    {
+      "name": "MINAKEM",
+      "location": "Mont-Saint-Guibert, BE",
+      "position": "I.T. Helpdesk Intern",
+      "url": "https://minakem.com/",
+      "startDate": "2021-02",
+      "endDate": "2021-02",
+      "summary": "Internship as a helpdesk technician in the IT department of a pharmaceutical company. I was in charge of helping the employees with their computer problems.",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -74,7 +85,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "B2",
       "icon": ""
     }
   ],
