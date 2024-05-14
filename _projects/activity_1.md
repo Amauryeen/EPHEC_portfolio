@@ -2,7 +2,7 @@
 layout: page
 title: Cyber Security Challenge Belgium 2023
 description: >
-  🕙 10 hours (real: 32 hours)<br />
+  🕙 10 hours (real: ~30 hours)<br />
   📅 March 10, 2023 - March 11, 2023<br />
   👤 NVISO<br />
   🔗 cybersecuritychallenge.be

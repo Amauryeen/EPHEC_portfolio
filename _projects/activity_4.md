@@ -2,7 +2,7 @@
 layout: page
 title: Create your first website with WordPress 6
 description: >
-  🕙 10 hours (real: 11 hours)<br />
+  🕙 10 hours (real: 10 hours)<br />
   📅 March 2024<br />
   👤 L. VERGNAUD, A. DIEZ<br />
   🔗 openclassrooms.com

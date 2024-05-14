@@ -2,7 +2,7 @@
 layout: page
 title: Cyber Security Challenge Belgium 2024
 description: >
-  🕙 10 hours (real: 30 hours)<br />
+  🕙 10 hours (real: ~30 hours)<br />
   📅 March 8, 2024 - March 9, 2024<br />
   👤 NVISO<br />
   🔗 cybersecuritychallenge.be

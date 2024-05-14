@@ -71,6 +71,16 @@
       "endDate": "PRESENT",
       "score": "10",
       "courses": ["Mathematics", "Electricity", "Electronics", "Networks", "Databases", "Programming", "Web development", "Project management"]
+    },
+    {
+      "institution": "ARRIX",
+      "location": "Rixensart, BE",
+      "url": "https://arrix.be/",
+      "area": "Social Sciences",
+      "studyType": "CESS",
+      "startDate": "2014-09",
+      "endDate": "2021-06",
+      "courses": []
     }
   ],
   "awards": [],
