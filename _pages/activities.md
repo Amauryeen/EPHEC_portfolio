@@ -1,7 +1,7 @@
 ---
 layout: page
 title: activities
-permalink: /activities/
+permalink: /projects/
 description: A collection of extracurricural activities I've done during my studies.
 nav: true
 nav_order: 3
