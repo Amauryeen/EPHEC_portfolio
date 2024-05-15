@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Amaury GROTARD",
+    "name": "Amaury Grotard",
     "label": "Bachelor Student",
     "image": "",
     "email": "a.grotard@students.ephec.be",
@@ -12,7 +12,7 @@
       "postalCode": "1380",
       "city": "Lasne",
       "countryCode": "BE",
-      "region": "Brabant-Wallon"
+      "region": "Brabant Wallon"
     },
     "profiles": []
   },
@@ -24,7 +24,7 @@
       "url": "https://ephec.be/",
       "startDate": "2024-02",
       "endDate": "2024-05",
-      "summary": "Internship for my Bachelor's graduation as a system administrator in the IT department of my school. I am in charge of making for the school an identity provider, a service provider, and SAML authentication.",
+      "summary": "I've joined my school's IT department for 3 months to discover the work of a system administrator. I've been given the opportunity to work with Shibboleth to build an identity provider integrated with eduGAIN. I've also worked with virtual machines using VMWare's suite. The internship was very promising and I've learnt a lot of knowledge in virtualization and single sign-on.",
       "highlights": [
         "Identity provider",
         "Service provider",
@@ -44,19 +44,19 @@
       "url": "https://minakem.com/",
       "startDate": "2021-02",
       "endDate": "2021-02",
-      "summary": "Internship as a helpdesk technician in the IT department of a pharmaceutical company. I was in charge of helping the employees with their computer problems.",
+      "summary": "I completed my sixth grade internship at a pharmaceutical company. It was an observation internship with an IT helpdesk technician. I learned a lot about how IT works in a company. This internship was very enriching and helped me confirm the path I wanted to follow.",
       "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "EPHEC's Student Council",
+      "organization": "EPHEC Student Council",
       "location": "Louvain-la-Neuve, BE",
-      "position": "Secretary",
+      "position": "Administrator & Secretary",
       "url": "https://www.linkedin.com/company/che2conseil",
       "startDate": "2023-09",
       "endDate": "2024-07",
-      "summary": "Administrator and Secretary for my school's Student Council, whose objective is to represent the students in the school's decision-making process.",
+      "summary": "I am an elected student of the EPHEC Student Council, called \"CHE2\". I act as administrator and secretary. The members of the EPHEC Student Council are elected annually by their peers, and represent all students at EPHEC in the various participatory bodies such as the Board of Management, the Pedagogical Council, the Category Council and the Social Council.",
       "highlights": []
     }
   ],
@@ -90,12 +90,17 @@
   "languages": [
     {
       "language": "French",
-      "fluency": "Native speaker",
+      "fluency": "C2",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "B2",
+      "fluency": "C1",
+      "icon": ""
+    },
+    {
+      "language": "Dutch",
+      "fluency": "A1",
       "icon": ""
     }
   ],
