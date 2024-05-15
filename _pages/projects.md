@@ -1,6 +1,6 @@
 ---
 layout: page
-title: activities
+title: portfolio
 permalink: /projects/
 description: A collection of extracurricural activities I've done during my studies.
 nav: true
