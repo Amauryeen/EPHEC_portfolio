@@ -16,14 +16,14 @@ horizontal: true
 <tr><td><a href="/EPHEC_portfolio/projects/activity_3">Getting started with React</a></td><td>Development</td><td>8</td><td>8</td></tr>
 <tr><td><a href="/EPHEC_portfolio/projects/activity_4">Create your first website with Wordpress 6</a></td><td>Development</td><td>10</td><td>10</td></tr>
 <tr><td><a href="/EPHEC_portfolio/projects/activity_5">CHE2</a></td><td>Social</td><td>10</td><td>~250</td></tr>
-<tr><td><a href="/EPHEC_portfolio/projects/activity_6">Supervising a Capture The Flag</a></td><td>Systems</td><td>2.5</td><td>2.5</td></tr>
+<tr><td><a href="/EPHEC_portfolio/projects/activity_6">Supervising a Capture The Flag</a></td><td>Systems</td><td>0</td><td>3</td></tr>
 <tr><td><a href="/EPHEC_portfolio/projects/activity_7">Creating a Capture The Flag</a></td><td>Systems</td><td>10</td><td>~10</td></tr>
 <tr><td><a href="/EPHEC_portfolio/projects/activity_8">Discussion on artificial intelligence and the uses of ChatGPT</a></td><td>AI</td><td>1</td><td>1</td></tr>
 <tr><td><a href="/EPHEC_portfolio/projects/activity_9">A playful approach to electronics</a></td><td>Electronics</td><td>1</td><td>1</td></tr>
 <tr><td><a href="/EPHEC_portfolio/projects/activity_10">Learning to weld</a></td><td>Electronics</td><td>1</td><td>1</td></tr>
 <tr><td><a href="/EPHEC_portfolio/projects/activity_11">Microcontroller programming</a></td><td>Electronics</td><td>1</td><td>1</td></tr>
 <tr><td>‎</td><td></td><td></td><td></td></tr>
-<tr><td><b>totals</b></td><td></td><td><b>64.5</b></td><td><b>~344.5</b></td></tr>
+<tr><td><b>totals</b></td><td></td><td><b>62</b></td><td><b>~345</b></td></tr>
 </table>
 
 <!-- pages/projects.md -->

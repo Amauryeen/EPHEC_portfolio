@@ -2,7 +2,7 @@
 layout: page
 title: Supervising a Capture The Flag
 description: >
-  🕙 2.5 hours (real: 2.5 hours)<br />
+  🕙 0 hours (real: 3 hours)<br />
   📅 March 23, 2023<br />
   👤 L. VAN DORMAEL<br />
   🔗 printempsdessciencesucl.be
